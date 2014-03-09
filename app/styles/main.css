@@ -1,0 +1,109 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+.text,
+.text:focus {
+	font-family: courier;
+	font-size: 20px;
+	margin: 0 auto;
+	margin-top: 100px;
+	width: 800px;
+	height: 450px;
+	padding: 20px;
+	resize: none;
+	outline: 0;
+	color: black;
+}
+
+#word-count {
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	font-family: courier;
+	font-size: 18px;
+}
+#char-count {
+	position: absolute;
+	left: 20px;
+	top: 40px;
+	font-family: courier;
+	font-size: 18px;
+}
+
+div.cursor {
+  display: inline-block;
+  border-left: 1px solid black;
+  margin-left: 1px;
+  z-index: 999;
+  height: 20px;
+  width: 12px;
+  position: relative;
+  top: 4px;
+ 
+  -webkit-animation: blink .5s linear 0s infinite;
+  -moz-animation: blink .5s linear 0s infinite;
+  -ms-animation: blink .5s linear 0s infinite;
+  -o-animation: blink .5s linear 0s infinite;
+}
+
+@-webkit-keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
+
+@-moz-keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
