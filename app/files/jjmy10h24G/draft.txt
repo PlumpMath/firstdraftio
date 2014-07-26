@@ -1,5 +1,0 @@
-How to fix Writer Pro?
-
-Only major problem I found about Writer Pro is that it has four stages, Note, Write, Edit, Read, but these stages aren't independent of each other. So suppose you have some rough draft and notes in the "Note" section, but you won't be able to keep your initial crappy notes in the "Note" section; they will get carry forwarded to the next phase, which seems to me redeculous considering how thoughtful this whole idea/approach is and how poor execution is this.
-
-The Fix: Text/content should get carried forwarded to the next phase (so users don't have to copy-paste text), but once the user is inside particular phase, he should be able to delete notes independent of other modes. This way, writers can always refer to his notes if he choses so in the future. The fact is that nobody writes polished perfect writing in the one go. Usually there will be some notes, reference materials and lots of notes before you get the sense of the writing structure. Being able to see your notes, and compare them with the final polished piece of writing will help writers in realising how the article came to be.

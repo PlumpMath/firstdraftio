@@ -1,2 +1,0 @@
-Okay, this is actually the most awesome thing I've ever built. I don't know why I'm not open-sourcing this. I might as well, right?
-Why isn't this on github? This is one of my finest creations! Yes, it is an MVP, but it is pretty darn 
