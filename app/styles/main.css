@@ -59,8 +59,20 @@ body {
 	font-size: 20px;
 	margin: 0 auto;
 	margin-top: 100px;
-	width: 800px;
+	width: 750px;
 	height: 450px;
+	padding: 20px;
+	resize: none;
+	outline: 0;
+	color: black;
+}
+
+.full-text {
+	font-family: courier;
+	font-size: 16;
+	margin: 0 auto;
+	margin-top: 100px;
+	width: 800px;
 	padding: 20px;
 	resize: none;
 	outline: 0;
@@ -69,7 +81,14 @@ body {
 
 #word-count {
 	position: absolute;
-	left: 20px;
+	left: 100px;
+	top: 20px;
+	font-family: courier;
+	font-size: 18px;
+}
+#finish {
+	position: absolute;
+	right: 140px;
 	top: 20px;
 	font-family: courier;
 	font-size: 18px;
@@ -98,6 +117,22 @@ div.cursor {
   -o-animation: blink .5s linear 0s infinite;
 }
 
+div.cursorwhite {
+  display: inline-block;
+  border-left: 1px solid white;
+  margin-left: 1px;
+  z-index: 999;
+  height: 20px;
+  width: 12px;
+  position: relative;
+  top: 4px;
+ 
+  -webkit-animation: blinkwhite .5s linear 0s infinite;
+  -moz-animation: blinkwhite .5s linear 0s infinite;
+  -ms-animation: blinkwhite .5s linear 0s infinite;
+  -o-animation: blinkwhite .5s linear 0s infinite;
+}
+
 @-webkit-keyframes blink {
     from, to { border-color: transparent }
     50% { border-color: black }
@@ -106,4 +141,74 @@ div.cursor {
 @-moz-keyframes blink {
     from, to { border-color: transparent }
     50% { border-color: black }
+}
+
+@-webkit-keyframes blinkwhite {
+    from, to { border-color: transparent }
+    50% { border-color: white }
+}
+
+@-moz-keyframes blinkwhite {
+    from, to { border-color: transparent }
+    50% { border-color: white }
+}
+.warning {
+	color: #f0ad4e;
+}
+.blue {
+	color: #428bca
+}
+.green {
+	color: green;
+}
+
+#loader {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.spin {
+	-webkit-animation-name: spin;
+	-webkit-animation-duration: .75s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+	-moz-animation-name: spin;
+	-moz-animation-duration: .75s;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-timing-function: linear;
+	-ms-animation-name: spin;
+	-ms-animation-duration: .75s;
+	-ms-animation-iteration-count: infinite;
+	-ms-animation-timing-function: linear;
+	-o-transition: rotate(3600deg);
+}
+
+@-moz-keyframes spin {
+	from { -moz-transform: rotate(0deg); }
+	to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+	from { -webkit-transform: rotate(0deg); }
+	to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+	from {transform:rotate(0deg);}
+	to {transform:rotate(360deg);}
+}
+
+.limit-height {
+	height: 300px;
+	overflow: scroll;
+}
+
+.dull {
+	color: red;
+}
+
+.popover {
+	max-width: 219px !important;
+}
+.popover .popover-content {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
 }

@@ -1,3 +1,92 @@
-<div id="word-count" ng-bind="words"></div>
-<div id="char-count" ng-bind="characters"></div>
-<div class="text"><span ng-bind-html="text"></span><span ng-bind-html="cursor"></span></div>
+<div ng-show="writing" id="finish">
+	<div class="btn-group" ng-click="next()">
+		<button id="save-button-el" type="button" class="btn btn-default btn-sm dropdown-toggle" data-toggle="dropdown">
+			<span class="glyphicon" ng-class="iconType"></span>
+		</button>
+		<ul class="dropdown-menu" role="menu">
+			<li><a href ng-click="saveToServer()">Save Draft</a></li>
+			<li><a href ng-click="loadLastPage()" data-toggle="modal" data-target="#lastPage">View Last Page</a></li>
+			<li><a href ng-click="toggleColors()">Toggle Colors</a></li>
+			<li><a href data-toggle="modal" data-target="#finish-confirm">Finish Draft</a></li>
+		</ul>
+	</div>
+</div>
+<div id="text-el" ng-show="writing" class="text"><span ng-bind-html="text"></span><span id="cursor-el" ng-bind-html="cursor"></span></div>
+<div ng-hide="writing" class="full-text" ng-cloak ng-bind-html="fullText"></div>
+
+<!-- Modal -->
+<div class="modal fade" id="tour" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Welcome to FirstDraft</h4>
+			</div>
+			<div class="modal-body">
+				Would you like a tour?
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+				<button type="button" class="btn btn-primary" ng-click="loadTour()" data-dismiss="modal">Yes</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="finish-confirm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Confirm</h4>
+			</div>
+			<div class="modal-body">
+				Your finished draft will be sent to Google Docs for editing, and you will be redirected to that page. Do you really want to finish your draft and begin editing?
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+				<button type="button" class="btn btn-primary" ng-click="finish()" data-dismiss="modal">Yes</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="firstSave" tabindex="-1" role="dialog" aria-labelledby="firstSave" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Draft Saved</h4>
+			</div>
+			<div class="modal-body">
+				<p>
+				Your draft has been saved at <a ng-href="http://dev.firstdraft.io/#/{{alias}}">http://dev.firstdraft.io/#/{{alias}}</a>. Please bookmark this page, or if you prefer, we will email this link to you for safe keeping:
+				</p>
+				<form ng-hide="emailSent" ng-cloak class="form-inline" role="form">
+					<div class="form-group">
+						<label class="sr-only" for="exampleInputEmail2">Email address</label>
+						<input type="email" ng-model="email" class="form-control" id="exampleInputEmail2" placeholder="Enter email">
+					</div>
+					<button ng-click="emailSend()" type="submit" class="btn btn-default">Submit</button>
+				</form>
+				<p ng-show="emailSent" ng-cloak>You will receive an email shortly with the link to your new draft. Happy writing!</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary" data-dismiss="modal" ng-click="next()">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="lastPage" tabindex="-1" role="dialog" aria-labelledby="lastPage" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title" id="myModalLabel">Last Page</h4>
+			</div>
+			<div class="modal-body limit-height" ng-bind-html="lastPage">
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>

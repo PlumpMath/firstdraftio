@@ -1,0 +1,676 @@
+[Sat Mar 15 13:36:49 2014] [error] [client 166.147.104.45] File does not exist: /srv/www/firstdraft.io/app/rest, referer: http://dev.firstdraft.io/
+[Sat Mar 15 13:37:09 2014] [error] [client 166.147.104.45] File does not exist: /srv/www/firstdraft.io/dist/rest
+[Sat Mar 15 13:37:14 2014] [error] [client 166.147.104.45] File does not exist: /srv/www/firstdraft.io/app/rest
+[Sat Mar 15 14:55:50 2014] [error] [client 166.147.104.42] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Sat Mar 15 14:56:00 2014] [error] [client 166.147.104.42] File does not exist: /srv/www/firstdraft.io/dist/files
+[Sat Mar 15 14:56:06 2014] [error] [client 166.147.104.42] File does not exist: /srv/www/firstdraft.io/dist/files
+[Sat Mar 15 14:56:17 2014] [error] [client 166.147.104.42] File does not exist: /srv/www/firstdraft.io/dist/files
+[Sat Mar 15 15:59:01 2014] [error] [client 166.147.104.39] File does not exist: /srv/www/firstdraft.io/dist/files
+[Sat Mar 15 16:33:28 2014] [error] [client 166.147.104.25] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Sun Mar 16 07:42:25 2014] [error] [client 166.147.104.26] File does not exist: /srv/www/firstdraft.io/app/file
+[Sun Mar 16 15:11:56 2014] [error] [client 166.147.104.36] File does not exist: /srv/www/firstdraft.io/app/bower_components/alertify.js/alertify.js, referer: http://dev.firstdraft.io/
+[Sun Mar 16 15:12:43 2014] [error] [client 166.147.104.36] File does not exist: /srv/www/firstdraft.io/app/bower_components/alertify.js/alertify.js, referer: http://dev.firstdraft.io/
+[Sun Mar 16 16:00:42 2014] [error] [client 166.147.104.36] File does not exist: /srv/www/firstdraft.io/app/files/ej9w2Q8lXT
+[Sun Mar 16 16:00:49 2014] [error] [client 166.147.104.36] File does not exist: /srv/www/firstdraft.io/app/file
+[Sun Mar 16 16:00:51 2014] [error] [client 166.147.104.36] File does not exist: /srv/www/firstdraft.io/app/files/ej9w2Q8lXT
+[Sun Mar 16 20:19:05 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/C89QATN5qY, referer: http://dev.firstdraft.io/
+[Sun Mar 16 20:19:10 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/lfo7oinKtz, referer: http://dev.firstdraft.io/
+[Sun Mar 16 20:19:20 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/lfo7oinKtz, referer: http://dev.firstdraft.io/
+[Sun Mar 16 20:19:45 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/lfo7oinKtz, referer: http://dev.firstdraft.io/
+[Sun Mar 16 20:19:47 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/Su5pId9axY, referer: http://dev.firstdraft.io/
+[Sun Mar 16 20:19:53 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/Su5pId9axY, referer: http://dev.firstdraft.io/
+[Sun Mar 16 20:24:20 2014] [error] [client 166.147.104.23] File does not exist: /srv/www/firstdraft.io/app/files/IDRV7aLvmN, referer: http://dev.firstdraft.io/
+[Tue Mar 18 20:10:28 2014] [error] [client 166.147.104.35] File does not exist: /srv/www/firstdraft.io/app/undefined, referer: http://dev.firstdraft.io/
+[Tue Mar 18 20:14:18 2014] [error] [client 166.147.104.35] File does not exist: /srv/www/firstdraft.io/app/undefined, referer: http://dev.firstdraft.io/
+[Wed Mar 19 06:38:33 2014] [error] [client 166.147.104.27] File does not exist: /srv/www/firstdraft.io/app/bower_components/ngprogress/ngprogress.js, referer: http://dev.firstdraft.io/
+[Wed Mar 19 22:20:38 2014] [error] [client 166.147.104.39] File does not exist: /srv/www/firstdraft.io/app/files/6Sb3koEpCO/draft
+[Thu Mar 20 19:52:17 2014] [error] [client 166.147.104.31] File does not exist: /srv/www/firstdraft.io/app/lisp
+[Thu Mar 20 19:52:24 2014] [error] [client 166.147.104.31] File does not exist: /srv/www/firstdraft.io/app/lisp
+[Thu Mar 20 20:28:06 2014] [error] [client 166.147.104.31] File does not exist: /srv/www/firstdraft.io/app/bower_components/bootstrap-tour/build/bootstrap-tour.js, referer: http://dev.firstdraft.io/
+[Sun Mar 23 22:01:05 2014] [error] [client 166.147.104.15] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Fri Apr 04 03:02:21 2014] [error] [client 64.246.178.34] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Apr 18 05:01:48 2014] [error] [client 64.246.161.30] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Apr 19 17:51:11 2014] [error] [client 38.99.82.232] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Apr 20 12:11:01 2014] [error] [client 38.99.82.199] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Apr 22 09:10:19 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/lfo7oinKtz
+[Tue Apr 22 09:10:36 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/ThOjhALbts
+[Tue Apr 22 09:10:44 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/OPPF11pl1X
+[Tue Apr 22 09:11:46 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/DrMSJOI5L8
+[Tue Apr 22 09:12:21 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/6Sb3koEpCO
+[Tue Apr 22 09:12:51 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/file
+[Tue Apr 22 09:13:22 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/hPatiERYAb
+[Tue Apr 22 09:13:50 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/pYAtCkZur9
+[Tue Apr 22 09:13:59 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/undefined
+[Tue Apr 22 09:14:26 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/aq7ITBJPMR
+[Tue Apr 22 09:14:30 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/IDRV7aLvmN
+[Tue Apr 22 09:14:41 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/vWY63I9VW7
+[Tue Apr 22 09:14:41 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/AS5BOIwxa3
+[Tue Apr 22 09:15:02 2014] [error] [client 207.182.143.114] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Tue Apr 22 09:15:02 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/app/files/92dZC8ZFA8
+[Tue Apr 22 10:57:26 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Tue Apr 22 10:59:04 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Tue Apr 22 10:59:40 2014] [error] [client 207.182.143.114] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Wed Apr 23 11:03:06 2014] [error] (70014)End of file found: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 192.99.17.177 ()
+[Wed Apr 23 11:03:06 2014] [error] (70014)End of file found: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 192.99.17.177 ()
+[Wed Apr 23 11:03:06 2014] [error] (70014)End of file found: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 192.99.17.177 ()
+[Wed Apr 23 11:03:06 2014] [error] (70014)End of file found: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 192.99.17.177 ()
+[Wed Apr 23 11:03:06 2014] [error] (70014)End of file found: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 192.99.17.177 ()
+[Wed Apr 23 11:14:53 2014] [error] [client 54.224.44.111] File does not exist: /srv/www/firstdraft.io/app/favicon.png
+[Wed Apr 23 11:14:53 2014] [error] [client 54.224.44.111] File does not exist: /srv/www/firstdraft.io/app/favicon.gif
+[Wed Apr 23 11:23:25 2014] [error] [client 77.94.136.198] File does not exist: /srv/www/firstdraft.io/app/feed
+[Wed Apr 23 11:24:32 2014] [error] [client 65.19.138.47] File does not exist: /srv/www/firstdraft.io/app/feed, referer: http://www.feedly.com
+[Wed Apr 23 11:24:34 2014] [error] [client 65.19.138.50] File does not exist: /srv/www/firstdraft.io/app/feed, referer: http://www.feedly.com
+[Wed Apr 23 11:27:47 2014] [error] (70007)The timeout specified has expired: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 182.239.73.85 ()
+[Wed Apr 23 11:55:22 2014] [error] [client 50.19.1.73] File does not exist: /srv/www/firstdraft.io/app/favicon.png
+[Wed Apr 23 11:55:22 2014] [error] [client 50.19.1.73] File does not exist: /srv/www/firstdraft.io/app/favicon.gif
+[Wed Apr 23 12:58:00 2014] [error] [client 97.87.155.102] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Wed Apr 23 12:59:36 2014] [error] [client 75.126.39.111] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Wed Apr 23 13:05:46 2014] [error] (70007)The timeout specified has expired: proxy: prefetch request body failed to 66.228.48.118:8070 (66.228.48.118) from 37.220.29.130 ()
+[Wed Apr 23 14:24:09 2014] [error] [client 50.135.134.2] File does not exist: /srv/www/firstdraft.io/app/firstdraft.io
+[Wed Apr 23 16:04:36 2014] [error] [client 188.76.32.228] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 16:04:37 2014] [error] [client 188.76.32.228] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 16:04:38 2014] [error] [client 188.76.32.228] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 20:06:28 2014] [error] [client 199.101.130.203] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 20:06:29 2014] [error] [client 199.101.130.203] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 20:06:29 2014] [error] [client 199.101.130.203] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 20:06:29 2014] [error] [client 199.101.130.203] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 20:06:29 2014] [error] [client 199.101.130.203] File does not exist: /srv/www/firstdraft.io/app/humans.txt
+[Wed Apr 23 20:41:43 2014] [error] [client 76.180.53.113] File does not exist: /srv/www/firstdraft.io/app/files/fail, referer: http://beta.firstdraft.io/
+[Wed Apr 23 23:35:10 2014] [error] [client 107.22.42.225] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144-precomposed.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114-precomposed.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72-precomposed.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-precomposed.png
+[Thu Apr 24 00:38:42 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon.png
+[Thu Apr 24 00:38:44 2014] [error] [client 8.35.200.37] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144-precomposed.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114-precomposed.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72-precomposed.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-precomposed.png
+[Thu Apr 24 03:19:26 2014] [error] [client 62.237.196.125] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon.png
+[Thu Apr 24 09:36:10 2014] [error] [client 54.234.1.193] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Thu Apr 24 11:17:50 2014] [error] [client 107.22.42.225] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Thu Apr 24 12:02:34 2014] [error] [client 198.209.3.205] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon-120x120-precomposed.png
+[Thu Apr 24 12:02:36 2014] [error] [client 198.209.3.205] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon-120x120.png
+[Thu Apr 24 12:02:36 2014] [error] [client 198.209.3.205] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon-precomposed.png
+[Thu Apr 24 20:15:10 2014] [error] [client 199.16.156.124] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 20:15:10 2014] [error] [client 199.16.156.125] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 20:15:12 2014] [error] [client 173.192.79.101] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 20:15:33 2014] [error] [client 54.82.177.129] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 20:15:33 2014] [error] [client 50.17.64.232] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 20:37:26 2014] [error] [client 199.59.148.209] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 21:53:32 2014] [error] [client 54.204.122.14] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Apr 24 21:53:33 2014] [error] [client 54.204.122.14] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Apr 25 10:34:33 2014] [error] [client 208.80.194.127] File does not exist: /srv/www/firstdraft.io/app/beta.firstdraft.io
+[Fri Apr 25 10:44:07 2014] [error] [client 208.80.194.127] File does not exist: /srv/www/firstdraft.io/app/beta.firstdraft.io
+[Fri Apr 25 10:47:18 2014] [error] [client 208.80.194.127] File does not exist: /srv/www/firstdraft.io/app/beta.firstdraft.io
+[Fri Apr 25 13:03:01 2014] [error] [client 66.249.65.214] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Apr 26 01:45:23 2014] [error] [client 66.249.65.150] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Apr 26 16:42:26 2014] [error] [client 58.22.74.222] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Apr 26 16:42:27 2014] [error] [client 58.22.74.222] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Apr 26 16:42:27 2014] [error] [client 58.22.74.222] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/connectors/test.html
+[Sat Apr 26 16:42:28 2014] [error] [client 58.22.74.222] File does not exist: /srv/www/firstdraft.io/app/manage, referer: http://beta.firstdraft.io/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Apr 26 17:30:31 2014] [error] [client 31.54.36.185] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Apr 26 18:22:25 2014] [error] [client 174.129.228.67] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Apr 27 10:06:50 2014] [error] [client 66.249.73.130] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Apr 27 10:06:50 2014] [error] [client 66.249.73.130] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Tue Apr 29 01:45:23 2014] [error] [client 66.249.73.130] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed Apr 30 22:45:44 2014] [error] [client 23.20.83.155] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Thu May 01 02:25:46 2014] [error] [client 216.145.11.94] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu May 01 04:47:12 2014] [error] [client 8.35.200.34] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu May 01 21:42:14 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu May 01 21:42:14 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Fri May 02 01:45:24 2014] [error] [client 66.249.73.130] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri May 02 16:01:00 2014] [error] [client 180.76.6.37] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/styles/
+[Fri May 02 20:36:26 2014] [error] [client 180.76.5.78] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/scripts/controllers/
+[Mon May 05 00:43:48 2014] [error] [client 23.20.83.155] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Mon May 05 01:45:25 2014] [error] [client 66.249.68.182] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue May 06 16:09:06 2014] [error] [client 199.21.99.125] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed May 07 09:37:04 2014] [error] [client 180.76.6.21] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular/`
+[Wed May 07 12:08:38 2014] [error] [client 199.16.156.124] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed May 07 15:50:26 2014] [error] [client 24.115.9.151] File does not exist: /srv/www/firstdraft.io/public_html/login
+[Wed May 07 15:50:26 2014] [error] [client 24.115.9.151] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Wed May 07 19:05:38 2014] [error] [client 202.46.48.120] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular/`
+[Thu May 08 01:45:27 2014] [error] [client 66.249.65.89] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu May 08 14:36:03 2014] [error] [client 198.20.65.18] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu May 08 22:47:08 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu May 08 22:47:08 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Fri May 09 10:23:39 2014] [error] [client 117.78.13.29] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat May 10 05:15:05 2014] [error] [client 180.76.5.65] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Sat May 10 11:14:41 2014] [error] [client 117.78.13.18] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat May 10 18:11:11 2014] [error] [client 180.76.6.55] File does not exist: /srv/www/firstdraft.io/app/a
+[Sat May 10 21:34:40 2014] [error] [client 192.64.83.74] script '/srv/www/firstdraft.io/app/wp-login.php' not found or unable to stat
+[Sat May 10 21:34:40 2014] [error] [client 192.64.83.74] File does not exist: /srv/www/firstdraft.io/app/blog
+[Sat May 10 21:34:40 2014] [error] [client 192.64.83.74] File does not exist: /srv/www/firstdraft.io/app/user
+[Sun May 11 01:45:27 2014] [error] [client 66.249.73.130] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun May 11 12:36:16 2014] [error] [client 180.76.6.130] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Sun May 11 19:21:55 2014] [error] [client 206.253.226.12] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun May 11 21:32:08 2014] [error] [client 157.55.35.115] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon May 12 16:06:56 2014] [error] [client 180.76.5.80] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Tue May 13 01:40:44 2014] [error] [client 64.246.165.200] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue May 13 07:59:05 2014] [error] [client 66.249.73.138] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed May 14 01:45:27 2014] [error] [client 66.249.73.156] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed May 14 03:07:39 2014] [error] [client 24.115.9.151] File does not exist: /srv/www/firstdraft.io/public_html/login
+[Wed May 14 03:07:39 2014] [error] [client 24.115.9.151] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Wed May 14 05:28:44 2014] [error] [client 180.76.6.47] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Wed May 14 13:33:37 2014] [error] [client 180.76.5.166] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Thu May 15 16:50:08 2014] [error] [client 180.76.5.73] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Fri May 16 06:08:46 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Fri May 16 06:08:46 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Fri May 16 07:59:05 2014] [error] [client 66.249.73.130] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri May 16 08:34:23 2014] [error] [client 117.78.13.55] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri May 16 17:00:55 2014] [error] [client 180.76.5.95] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Sat May 17 20:18:03 2014] [error] [client 198.71.51.209] script '/srv/www/firstdraft.io/app/wp-login.php' not found or unable to stat
+[Sat May 17 20:18:03 2014] [error] [client 198.71.51.209] File does not exist: /srv/www/firstdraft.io/app/blog
+[Sat May 17 20:18:03 2014] [error] [client 198.71.51.209] File does not exist: /srv/www/firstdraft.io/app/demo
+[Sat May 17 20:18:03 2014] [error] [client 198.71.51.209] File does not exist: /srv/www/firstdraft.io/app/wp
+[Sat May 17 20:18:03 2014] [error] [client 198.71.51.209] File does not exist: /srv/www/firstdraft.io/app/wordpress
+[Sat May 17 20:18:04 2014] [error] [client 198.71.51.209] File does not exist: /srv/www/firstdraft.io/app/social
+[Sat May 17 20:18:04 2014] [error] [client 198.71.51.209] File does not exist: /srv/www/firstdraft.io/app/user
+[Sun May 18 02:33:42 2014] [error] [client 180.76.5.150] File does not exist: /srv/www/firstdraft.io/app/bower_components/angular-route/Book
+[Sun May 18 20:10:23 2014] [error] [client 66.249.70.42] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue May 20 04:07:12 2014] [error] [client 54.224.242.248] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue May 20 13:19:15 2014] [error] [client 202.105.60.197] File does not exist: /srv/www/firstdraft.io/app/trackback, referer: http://beta.firstdraft.io/
+[Tue May 20 19:54:15 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Tue May 20 19:54:15 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Thu May 22 20:03:27 2014] [error] [client 108.59.8.80] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun May 25 02:23:43 2014] [error] [client 64.246.187.42] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun May 25 11:45:51 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144-precomposed.png
+[Sun May 25 11:45:51 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144.png
+[Sun May 25 11:45:51 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114-precomposed.png
+[Sun May 25 11:45:51 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114.png
+[Sun May 25 11:45:52 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72-precomposed.png
+[Sun May 25 11:45:52 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72.png
+[Sun May 25 11:45:52 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-precomposed.png
+[Sun May 25 11:45:52 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon.png
+[Tue May 27 20:03:10 2014] [error] [client 107.21.187.210] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed May 28 07:46:53 2014] [error] [client 157.55.35.40] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri May 30 20:23:24 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/vWY63I9VW7
+[Fri May 30 20:23:26 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/DrMSJOI5L8
+[Fri May 30 20:23:38 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/92dZC8ZFA8
+[Fri May 30 20:23:43 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/AS5BOIwxa3
+[Fri May 30 20:23:57 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/ThOjhALbts
+[Fri May 30 20:24:04 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/IDRV7aLvmN
+[Fri May 30 20:24:05 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/6Sb3koEpCO
+[Fri May 30 20:24:11 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/undefined
+[Fri May 30 20:24:12 2014] [error] [client 64.79.85.202] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Fri May 30 20:24:13 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/lfo7oinKtz
+[Fri May 30 20:24:18 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/aq7ITBJPMR
+[Fri May 30 20:24:23 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/file
+[Fri May 30 20:24:26 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/hPatiERYAb
+[Fri May 30 20:24:30 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/OPPF11pl1X
+[Fri May 30 21:08:00 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Fri May 30 21:08:07 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Fri May 30 21:08:13 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Sat May 31 01:01:28 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sat May 31 01:01:28 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sat May 31 12:10:43 2014] [error] [client 208.115.111.71] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat May 31 13:15:10 2014] [error] [client 54.234.1.193] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Sun Jun 01 23:03:30 2014] [error] [client 117.78.13.18] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jun 02 03:48:23 2014] [error] [client 140.237.24.78] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Mon Jun 02 08:00:09 2014] [error] [client 66.249.65.102] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jun 02 09:07:08 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Mon Jun 02 09:07:08 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Mon Jun 02 15:06:18 2014] [error] [client 199.187.122.91] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jun 03 01:58:13 2014] [error] [client 58.22.144.194] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Tue Jun 03 01:58:14 2014] [error] [client 58.22.144.194] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Tue Jun 03 01:58:15 2014] [error] [client 58.22.144.194] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/connectors/test.html
+[Tue Jun 03 01:58:16 2014] [error] [client 58.22.144.194] File does not exist: /srv/www/firstdraft.io/app/manage, referer: http://beta.firstdraft.io/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Tue Jun 03 01:58:18 2014] [error] [client 58.22.144.194] File does not exist: /srv/www/firstdraft.io/app/system, referer: http://beta.firstdraft.io/system/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Wed Jun 04 22:30:33 2014] [error] [client 140.237.19.55] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/connectors/test.html
+[Wed Jun 04 22:30:34 2014] [error] [client 140.237.19.55] File does not exist: /srv/www/firstdraft.io/app/manage, referer: http://beta.firstdraft.io/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Thu Jun 05 05:14:19 2014] [error] [client 54.196.186.24] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Jun 06 03:18:55 2014] [error] [client 64.246.165.210] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jun 08 16:19:55 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:19:56 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/editor/filemanager/upload/test.html
+[Sun Jun 08 16:19:56 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/editors/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:19:56 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:19:57 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:19:57 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/connectors/test.html
+[Sun Jun 08 16:19:58 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:19:58 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:20:20 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/fckeditor_ap/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:20:20 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/system/editor/fckeditor/editor/fckeditor.html
+[Sun Jun 08 16:20:21 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/editors/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:20:21 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:20:21 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/fckeditor1/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:20:22 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/bbadmin, referer: http://beta.firstdraft.io/bbadmin/editors/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:20:31 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/cms, referer: http://beta.firstdraft.io/cms/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:20:32 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/edit, referer: http://beta.firstdraft.io/edit/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:20:32 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:20:54 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:20:54 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:20:58 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:20:58 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:20:59 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editors, referer: http://beta.firstdraft.io/editors/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:20:59 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/_samples/default.html
+[Sun Jun 08 16:20:59 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/fckdialog.html
+[Sun Jun 08 16:21:00 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/fckeditor.html
+[Sun Jun 08 16:21:00 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/fckeditor.original.html
+[Sun Jun 08 16:21:01 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:21:01 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:21:02 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/connectors/test.html
+[Sun Jun 08 16:21:02 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:03 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:21:06 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor1, referer: http://beta.firstdraft.io/fckeditor1/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:06 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/fckeditor_ap, referer: http://beta.firstdraft.io/fckeditor_ap/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:07 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/includes, referer: http://beta.firstdraft.io/includes/editors/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:21:10 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:21:11 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:21:20 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/connectors/test.html
+[Sun Jun 08 16:21:21 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:21 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:21:21 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/login, referer: http://beta.firstdraft.io/login/editors/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:21:22 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/mods, referer: http://beta.firstdraft.io/mods/ckeditor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:22 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/oa, referer: http://beta.firstdraft.io/oa/fckeditor/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:21:23 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/path, referer: http://beta.firstdraft.io/path/fckeditor/editor/filemanager/browser/default/browser.html
+[Sun Jun 08 16:21:23 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/public, referer: http://beta.firstdraft.io/public/js/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:21:45 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/public, referer: http://beta.firstdraft.io/public/js/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:48 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/public, referer: http://beta.firstdraft.io/public/js/fckeditor/editor/filemanager/upload/test.html
+[Sun Jun 08 16:21:49 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:21:52 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/connectors/test.html
+[Sun Jun 08 16:21:53 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:21:56 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/webmanage, referer: http://beta.firstdraft.io/webmanage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:21:56 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/webmanage, referer: http://beta.firstdraft.io/webmanage/fckeditor/editor/filemanager/connectors/test.html
+[Sun Jun 08 16:21:57 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/webmanage, referer: http://beta.firstdraft.io/webmanage/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sun Jun 08 16:22:00 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 08 16:22:01 2014] [error] [client 140.237.26.28] File does not exist: /srv/www/firstdraft.io/app/manage, referer: http://beta.firstdraft.io/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Tue Jun 10 16:36:15 2014] [error] [client 199.16.156.124] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jun 10 19:31:56 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/IDRV7aLvmN
+[Tue Jun 10 19:31:56 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/6Sb3koEpCO
+[Tue Jun 10 19:31:59 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/hPatiERYAb
+[Tue Jun 10 19:32:07 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/pYAtCkZur9
+[Tue Jun 10 19:32:08 2014] [error] [client 64.79.85.202] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Tue Jun 10 19:32:13 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/AS5BOIwxa3
+[Tue Jun 10 19:32:13 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/undefined
+[Tue Jun 10 19:32:14 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/DrMSJOI5L8
+[Tue Jun 10 19:32:25 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/ThOjhALbts
+[Tue Jun 10 19:32:29 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/aq7ITBJPMR
+[Tue Jun 10 19:32:48 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/92dZC8ZFA8
+[Tue Jun 10 19:32:48 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/vWY63I9VW7
+[Tue Jun 10 19:32:48 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/OPPF11pl1X
+[Tue Jun 10 19:33:03 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/lfo7oinKtz
+[Tue Jun 10 20:22:06 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Tue Jun 10 20:22:07 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Tue Jun 10 20:22:20 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Wed Jun 11 15:53:45 2014] [error] [client 69.58.178.56] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Jun 13 21:32:35 2014] [error] [client 207.46.13.69] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Jun 14 19:57:46 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sat Jun 14 19:57:46 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sat Jun 14 20:25:04 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/editors/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 14 20:25:07 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 14 20:28:05 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/browser.html
+[Sat Jun 14 20:28:05 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 14 20:29:18 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/fckeditor.html
+[Sat Jun 14 20:29:18 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/fckeditor.original.html
+[Sat Jun 14 20:31:27 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/fckeditor_ap, referer: http://beta.firstdraft.io/fckeditor_ap/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 14 20:34:40 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/path, referer: http://beta.firstdraft.io/path/fckeditor/editor/filemanager/browser/default/browser.html
+[Sat Jun 14 20:34:40 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/public, referer: http://beta.firstdraft.io/public/js/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Jun 14 20:35:47 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Jun 14 20:35:47 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/connectors/test.html
+[Sat Jun 14 20:36:51 2014] [error] [client 140.237.16.59] File does not exist: /srv/www/firstdraft.io/app/webmanage, referer: http://beta.firstdraft.io/webmanage/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 14 22:11:07 2014] [error] [client 69.58.178.58] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jun 15 06:18:45 2014] [error] [client 66.249.65.115] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jun 15 09:30:47 2014] [error] [client 66.249.67.115] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jun 15 16:11:46 2014] [error] [client 208.115.111.71] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jun 16 03:06:53 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Mon Jun 16 03:06:53 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Mon Jun 16 16:47:42 2014] [error] [client 66.249.65.102] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jun 16 22:17:11 2014] [error] [client 66.249.74.226] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jun 17 20:06:52 2014] [error] [client 198.1.153.13] File does not exist: /srv/www/firstdraft.io/app/trackback, referer: http://beta.firstdraft.io/
+[Wed Jun 18 04:33:03 2014] [error] [client 64.246.165.190] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Jun 20 19:26:50 2014] [error] [client 199.59.148.210] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Jun 21 17:39:47 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:39:47 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/editor/filemanager/upload/test.html
+[Sat Jun 21 17:39:48 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/admin, referer: http://beta.firstdraft.io/admin/editors/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:42:45 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/editors/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:43:07 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/administrator, referer: http://beta.firstdraft.io/administrator/fckeditor1/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:43:07 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/bbadmin, referer: http://beta.firstdraft.io/bbadmin/editors/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:43:08 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/cms, referer: http://beta.firstdraft.io/cms/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:43:08 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/edit, referer: http://beta.firstdraft.io/edit/editor/filemanager/browser/default/browser.html
+[Sat Jun 21 17:43:09 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/browser/default/connectors/test.html
+[Sat Jun 21 17:43:09 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/connectors/test.html
+[Sat Jun 21 17:43:10 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:43:10 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:43:11 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/browser.html
+[Sat Jun 21 17:43:11 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:45:34 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/connectors/test.html
+[Sat Jun 21 17:46:05 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/fckeditor, referer: http://beta.firstdraft.io/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:46:05 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/fckeditor1, referer: http://beta.firstdraft.io/fckeditor1/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:46:15 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/fckeditor_ap, referer: http://beta.firstdraft.io/fckeditor_ap/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:46:15 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/includes, referer: http://beta.firstdraft.io/includes/editors/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:46:46 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Jun 21 17:46:46 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/connectors/test.html
+[Sat Jun 21 17:47:08 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/js, referer: http://beta.firstdraft.io/js/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:47:09 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/login, referer: http://beta.firstdraft.io/login/editors/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:48:57 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/public, referer: http://beta.firstdraft.io/public/js/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:49:07 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/public, referer: http://beta.firstdraft.io/public/js/fckeditor/editor/filemanager/upload/test.html
+[Sat Jun 21 17:49:07 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/browser/default/connectors/test.html
+[Sat Jun 21 17:49:17 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/connectors/test.html
+[Sat Jun 21 17:49:17 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/webeditor, referer: http://beta.firstdraft.io/webeditor/editor/filemanager/connectors/uploadtest.html
+[Sat Jun 21 17:50:24 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/editor, referer: http://beta.firstdraft.io/editor/filemanager/browser/default/connectors/test.html
+[Sat Jun 21 17:50:25 2014] [error] [client 140.237.23.196] File does not exist: /srv/www/firstdraft.io/app/manage, referer: http://beta.firstdraft.io/manage/fckeditor/editor/filemanager/browser/default/connectors/test.html
+[Sun Jun 22 15:40:08 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/undefined
+[Sun Jun 22 15:40:18 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/6Sb3koEpCO
+[Sun Jun 22 15:40:31 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/hPatiERYAb
+[Sun Jun 22 15:40:40 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/pYAtCkZur9
+[Sun Jun 22 15:40:56 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/IDRV7aLvmN
+[Sun Jun 22 15:41:16 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/ThOjhALbts
+[Sun Jun 22 15:42:11 2014] [error] [client 64.79.85.202] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/
+[Sun Jun 22 15:42:16 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/file
+[Sun Jun 22 15:42:16 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/aq7ITBJPMR
+[Sun Jun 22 15:42:21 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/vWY63I9VW7
+[Sun Jun 22 15:42:21 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/OPPF11pl1X
+[Sun Jun 22 15:43:32 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/DrMSJOI5L8
+[Sun Jun 22 15:43:32 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/92dZC8ZFA8
+[Sun Jun 22 15:43:33 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/app/files/AS5BOIwxa3
+[Sun Jun 22 16:51:56 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Sun Jun 22 16:52:39 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Sun Jun 22 16:52:51 2014] [error] [client 64.79.85.202] File does not exist: /srv/www/firstdraft.io/public_html/files
+[Mon Jun 23 00:41:45 2014] [error] [client 107.22.42.225] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Tue Jun 24 05:27:23 2014] [error] [client 107.22.42.225] File does not exist: /srv/www/firstdraft.io/app/apple-touch-icon.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144-precomposed.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114-precomposed.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72-precomposed.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-precomposed.png
+[Wed Jun 25 13:46:32 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon.png
+[Thu Jun 26 02:57:49 2014] [error] [client 37.187.240.186] script '/srv/www/firstdraft.io/app/wp-login.php' not found or unable to stat
+[Thu Jun 26 02:57:49 2014] [error] [client 37.187.240.186] File does not exist: /srv/www/firstdraft.io/app/administrator
+[Sun Jun 29 08:33:56 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sun Jun 29 08:33:56 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Mon Jun 30 05:57:23 2014] [error] [client 64.246.165.160] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jun 30 11:42:55 2014] [error] [client 207.46.13.127] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jun 30 17:11:35 2014] [error] [client 66.249.79.115] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed Jul 02 14:24:28 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144-precomposed.png
+[Wed Jul 02 14:24:28 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144.png
+[Wed Jul 02 14:24:28 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114-precomposed.png
+[Wed Jul 02 14:24:29 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114.png
+[Wed Jul 02 14:24:29 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72-precomposed.png
+[Wed Jul 02 14:24:29 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72.png
+[Wed Jul 02 14:24:30 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-precomposed.png
+[Wed Jul 02 14:24:30 2014] [error] [client 213.243.139.93] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon.png
+[Thu Jul 03 12:09:28 2014] [error] [client 208.115.111.71] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Jul 04 06:06:40 2014] [error] [client 54.191.15.204] script '/srv/www/firstdraft.io/public_html/wp-login.php' not found or unable to stat, referer: http://firstdraft.io/wp-login.php
+[Fri Jul 04 23:01:34 2014] [error] [client 117.78.13.18] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Jul 05 07:11:00 2014] [error] [client 199.16.156.126] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jul 06 16:36:51 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sun Jul 06 16:36:51 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Tue Jul 08 00:08:22 2014] [error] [client 199.21.99.205] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 07:21:10 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 07:21:10 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:08:59 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:08:59 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:12:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:12:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:15:56 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:15:56 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:17:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:17:52 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:20:18 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:20:18 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:22:49 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:22:50 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:24:15 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:24:16 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:26:28 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:26:28 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:28:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:28:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:31:02 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:31:02 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:33:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:33:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:35:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:35:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:37:27 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:37:27 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:39:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:39:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:41:46 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:41:46 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:44:03 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:44:04 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:46:06 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:46:06 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:48:59 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:48:59 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:50:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:50:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:52:45 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:52:46 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:55:17 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:55:17 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:57:03 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:57:04 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:58:47 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 10:58:47 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:00:15 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:00:16 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:02:30 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:02:30 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:03:47 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:03:47 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:06:20 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:06:20 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:08:57 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:08:57 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:10:40 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:10:40 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:12:50 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:12:50 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:14:32 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:14:32 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:16:31 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:16:31 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:18:44 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:18:45 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:21:43 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:21:43 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:24:13 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:24:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:25:45 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:25:45 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:27:40 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:27:40 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:29:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:29:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:32:22 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:32:22 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:33:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:33:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:36:19 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:36:19 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:38:34 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:38:34 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:40:13 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:40:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:41:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:41:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:44:07 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:44:07 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:47:25 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:47:25 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:49:19 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:49:19 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:51:30 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 11:51:30 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:07:13 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:07:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:08:42 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:08:43 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:10:54 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:10:54 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:13:02 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:13:03 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:14:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:14:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:16:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:16:15 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:18:01 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:18:01 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:19:56 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:19:56 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:21:05 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:21:05 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:22:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:22:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:24:31 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:24:31 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:25:49 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:25:49 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:27:08 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:27:08 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:28:01 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:28:02 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:30:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:30:15 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:31:44 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:31:44 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:34:11 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:34:11 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:35:23 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:35:23 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:37:35 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:37:35 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:39:46 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:39:47 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:41:25 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:41:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:43:18 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:43:19 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:44:50 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:44:50 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:45:47 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:45:48 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:47:13 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:47:14 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:48:08 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:48:08 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:50:01 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:50:01 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:51:29 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:51:29 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:52:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:52:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:54:10 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:54:10 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:54:42 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:54:42 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:55:55 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:55:55 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:57:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:57:26 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:59:01 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 12:59:02 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:00:33 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:00:33 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:01:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:01:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:03:48 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:03:49 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:05:41 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:05:41 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:07:17 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:07:17 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:08:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:08:51 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:10:43 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:10:43 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:13:08 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:13:08 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:14:25 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:14:25 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:15:52 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:15:52 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:17:24 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:17:24 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:18:55 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:18:55 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:20:36 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:20:37 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:22:06 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 13:22:06 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 14:33:38 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 14:33:39 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 15:29:40 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Tue Jul 08 15:29:40 2014] [error] [client 144.76.32.147] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Wed Jul 09 11:23:10 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/admin, referer: http://firstdraft.io/admin/editors/fckeditor/editor/filemanager/upload/test.html
+[Wed Jul 09 11:26:40 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/administrator, referer: http://firstdraft.io/administrator/fckeditor1/editor/filemanager/connectors/uploadtest.html
+[Wed Jul 09 11:26:41 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/bbadmin, referer: http://firstdraft.io/bbadmin/editors/fckeditor/editor/filemanager/upload/test.html
+[Wed Jul 09 11:26:41 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/cms, referer: http://firstdraft.io/cms/fckeditor/editor/filemanager/connectors/uploadtest.html
+[Wed Jul 09 11:26:45 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/edit, referer: http://firstdraft.io/edit/editor/filemanager/browser/default/browser.html
+[Wed Jul 09 11:26:46 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/editor, referer: http://firstdraft.io/editor/editor/filemanager/browser/default/connectors/test.html
+[Wed Jul 09 11:26:46 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/editor, referer: http://firstdraft.io/editor/editor/filemanager/connectors/test.html
+[Wed Jul 09 11:26:47 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/editor, referer: http://firstdraft.io/editor/editor/filemanager/connectors/uploadtest.html
+[Wed Jul 09 11:28:54 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/fckeditor, referer: http://firstdraft.io/fckeditor/editor/fckeditor.html
+[Wed Jul 09 11:32:06 2014] [error] [client 140.237.18.229] File does not exist: /srv/www/firstdraft.io/public_html/js, referer: http://firstdraft.io/js/fckeditor/editor/filemanager/browser/default/browser.html
+[Thu Jul 10 20:52:28 2014] [error] [client 66.249.64.74] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Jul 12 03:05:07 2014] [error] [client 64.246.165.200] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jul 13 17:58:12 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sun Jul 13 17:58:12 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Mon Jul 14 17:19:22 2014] [error] [client 199.59.148.211] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Jul 17 22:12:49 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/admin
+[Thu Jul 17 22:16:12 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/webmanage
+[Thu Jul 17 22:23:31 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/admin
+[Thu Jul 17 22:23:59 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/bbadmin
+[Thu Jul 17 22:29:06 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/editor
+[Thu Jul 17 23:20:47 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/phpmotion
+[Fri Jul 18 00:23:00 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/editor
+[Fri Jul 18 00:41:51 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/public
+[Fri Jul 18 00:48:56 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/login
+[Fri Jul 18 01:49:09 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/public
+[Fri Jul 18 02:10:55 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Fri Jul 18 02:20:23 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/cms
+[Fri Jul 18 02:39:01 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/js
+[Fri Jul 18 02:58:58 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/administrator
+[Fri Jul 18 03:03:34 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Fri Jul 18 03:37:46 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/mods
+[Fri Jul 18 03:44:41 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/manage
+[Fri Jul 18 04:23:49 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/js
+[Fri Jul 18 04:55:51 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Fri Jul 18 05:02:26 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/editor
+[Fri Jul 18 05:02:56 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/admin
+[Fri Jul 18 05:53:31 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/editor
+[Fri Jul 18 06:20:48 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/editors
+[Fri Jul 18 06:22:19 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/editor
+[Fri Jul 18 06:44:36 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/admin
+[Fri Jul 18 06:56:33 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/fckeditor1
+[Fri Jul 18 07:19:49 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/admin
+[Fri Jul 18 07:42:11 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/admin
+[Fri Jul 18 08:01:53 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/oa
+[Fri Jul 18 09:13:20 2014] [error] [client 124.148.145.23] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Fri Jul 18 09:24:49 2014] [error] [client 110.85.105.114] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Fri Jul 18 16:09:27 2014] [error] [client 208.115.111.71] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sun Jul 20 18:32:27 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sun Jul 20 18:32:27 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/favicon.ico
+[Sun Jul 20 21:45:00 2014] [error] [client 36.248.187.195] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Sun Jul 20 21:45:00 2014] [error] [client 36.248.187.195] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Sun Jul 20 21:45:00 2014] [error] [client 36.248.187.195] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Sun Jul 20 21:45:01 2014] [error] [client 36.248.187.195] File does not exist: /srv/www/firstdraft.io/app/fckeditor
+[Sun Jul 20 23:58:32 2014] [error] [client 66.249.74.226] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jul 21 17:21:28 2014] [error] [client 199.59.148.210] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Mon Jul 21 18:55:52 2014] [error] [client 66.249.70.42] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Jul 24 02:37:54 2014] [error] [client 64.246.165.140] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Jul 24 10:54:16 2014] [error] [client 5.10.104.68] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Thu Jul 24 22:11:39 2014] [error] [client 69.58.178.58] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Fri Jul 25 00:53:10 2014] [error] [client 66.249.74.226] File does not exist: /srv/www/firstdraft.io/public_html/robots.txt
+[Sat Jul 26 14:50:16 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144-precomposed.png
+[Sat Jul 26 14:50:16 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-144x144.png
+[Sat Jul 26 14:50:16 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114-precomposed.png
+[Sat Jul 26 14:50:16 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-114x114.png
+[Sat Jul 26 14:50:16 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72-precomposed.png
+[Sat Jul 26 14:50:17 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-72x72.png
+[Sat Jul 26 14:50:17 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon-precomposed.png
+[Sat Jul 26 14:50:17 2014] [error] [client 107.22.209.56] File does not exist: /srv/www/firstdraft.io/public_html/apple-touch-icon.png
+[Sat Jul 26 17:03:38 2014] [error] [client 97.88.194.158] Directory index forbidden by Options directive: /srv/www/firstdraft.io/app/files/

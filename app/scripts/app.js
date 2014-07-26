@@ -7,10 +7,15 @@ angular.module('fdApp', [
   'ngRoute'
 ])
   .config(function ($routeProvider) {
+    
     $routeProvider
-      .when('/', {
+      .when('/:alias', {
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
+      })
+      .when('/', {
+        templateUrl: 'views/main.html',
+        controller: 'RedirectCtrl'
       })
       .otherwise({
         redirectTo: '/'
