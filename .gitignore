@@ -5,3 +5,5 @@ dist
 app/bower_components
 lisp/
 logs/
+public_html/
+test/
