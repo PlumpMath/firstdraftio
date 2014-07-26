@@ -1,0 +1,4 @@
+The authors propose a method for learning the structure of a network of stochastic differential equations.  They optimize a squared-error loss function by randomly perturbing an edge in their network among a small set of possibilities and accepting this perturbation if the error decreases.  They demonstrate the performance of their method against an L1-regularized regression method on a network of springs and masses.  They then compare their method against the top 3 performers in the DREAM 4 network reguluatory challenge and demonstrate the superior performance of their method on this dataset.  Further simulated datasets are used to demonstrate the statistically significant of their performance improvement.
+Pros:
+The paper clearly describes the problem they are trying to solve in Section 2.  The paper demonstrates a substantial improvement over top-ranked methods in the DREAM 4 challenge.
+Cons:
